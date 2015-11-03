@@ -70,7 +70,6 @@
     <Content Include="css\print.css" />
     <Content Include="css\styles.css" />
     <Content Include="HtmlPage1.html" />
-    <Content Include="images\1_star.jpg" />
     <Content Include="images\2_stars.jpg" />
     <Content Include="images\3_stars.jpg" />
     <Content Include="images\4_stars.jpg" />
